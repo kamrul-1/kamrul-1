@@ -42,7 +42,7 @@ You can reach out to me through any of the platforms below. I’m always open to
 ### Socials
 
 [![Facebook](facebook.png)](https://facebook.com/payel01)  
-[![Instagram](instagram.png)](https://www.instagram.com/kamrulhasanpayel?igsh=bjZ3djdzNDlmbnd4)  
+[![Instagram](Instagram.png)](https://www.instagram.com/kamrulhasanpayel?igsh=bjZ3djdzNDlmbnd4)  
 [![WhatsApp](WhatsApp.png)](https://wa.me/8801858500810)  
 [![Messenger](msngr.png)](https://m.me/payel01)  
 [![YouTube](yt.png)](https://youtube.com/@kamrulhasanpayel)
