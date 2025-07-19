@@ -40,12 +40,11 @@ I’m Kamrul Hasan Payel from Bangladesh. I love building clean UI/UX-based apps
 You can reach out to me through any of the platforms below. I’m always open to collaboration, feedback, or just a friendly salam!
 
 ### Socials
-
-[![Facebook](facebook.png)](https://facebook.com/payel01)  
-[![Instagram](Instagram.png)](https://www.instagram.com/kamrulhasanpayel?igsh=bjZ3djdzNDlmbnd4)  
-[![WhatsApp](WhatsApp.png)](https://wa.me/8801858500810)  
-[![Messenger](msngr.png)](https://m.me/payel01)  
-[![YouTube](yt.png)](https://youtube.com/@kamrulhasanpayel)
+[<img src="facebook.png" height="30"/>](https://facebook.com/payel01)
+[<img src="Instagram.png" height="30"/>](https://Instagram.com/kamrulhasanpayel)
+[<img src="messenger.png" height="30"/>](https://m.me/payel01)
+[<img src="whatsapp.png" height="30"/>](https://wa.me/01858500810)
+[<img src="yt.png" height ="30"/>](https://youtube.com/@kamrulhasanpayel)
 
 ---
 
