@@ -42,8 +42,8 @@ You can reach out to me through any of the platforms below. I’m always open to
 ### Socials
 [<img src="facebook.png" height="30"/>](https://facebook.com/payel01)
 [<img src="Instagram.png" height="30"/>](https://Instagram.com/kamrulhasanpayel)
-[<img src="messenger.png" height="30"/>](https://m.me/payel01)
-[<img src="whatsapp.png" height="30"/>](https://wa.me/01858500810)
+[<img src="msngr.png" height="30"/>](https://m.me/payel01)
+[<img src="WhatsApp.png" height="30"/>](https://wa.me/01858500810)
 [<img src="yt.png" height ="30"/>](https://youtube.com/@kamrulhasanpayel)
 
 ---
